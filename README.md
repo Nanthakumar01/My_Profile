@@ -1,4 +1,3 @@
-# My_Profile
 <h1 align="center">Hi 👋, I'm Nanthakumar B</h1>
 <h3 align="center">As an aspiring Front-End Developer, I am passionate about creating visually appealing and user-friendly websites. I have a solid foundation in HTML, CSS,JavaScript and React, and I am eager to apply my skills in real-world projects. My recent coursework and personal projects have equipped me with hands-on experience in responsive design and web performance optimization. I am committed to continuous learning and am excited to contribute to a team where I can further develop my skills and grow as a developer.</h3>
 
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://www.linkedin.com/in/nanthakumar-b-46401a2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.linkedin.com/in/nanthakumar-b-46401a2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nanthakumar-b-46401a2bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nanthakumar-b-46401a2bb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/hrvlph0vjh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hrvlph0vjh/" height="30" width="40" /></a>
 </p>
 
